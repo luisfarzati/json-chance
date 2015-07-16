@@ -1,13 +1,13 @@
 {
-  "name": "PACKAGE-NAME",
+  "name": "json-chance",
   "version": "0.1.0",
-  "description": "PACKAGE_DESCRIPTION",
-  "keywords": [],
+  "description": "Create random JSON objects using json-spawn and Chance.js",
+  "keywords": ["mock", "generator", "random", "chance", "fields", "select", "query", "json"],
   "author": "lfarzati@gmail.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/luisfarzati/json-spawn.git"
+    "url": "git://github.com/luisfarzati/json-chance.git"
   },
   "main": "lib/index",
   "bin": "bin/jsonchance",
