@@ -10,7 +10,9 @@
     "url": "git://github.com/luisfarzati/json-chance.git"
   },
   "main": "lib/index",
-  "bin": "bin/jsonchance",
+  "bin": {
+    "jsonchance": "bin/jsonchance"
+  },
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha -w -G -R min",
