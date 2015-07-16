@@ -1,4 +1,4 @@
-# JSON Chance [![NPM version](https://badge.fury.io/js/json-chance.png)](http://badge.fury.io/js/json-chance)
+# json-chance [![NPM version](https://badge.fury.io/js/json-chance.png)](http://badge.fury.io/js/json-chance)
 [![Build Status](https://secure.travis-ci.org/luisfarzati/json-chance.png)](http://travis-ci.org/luisfarzati/json-chance) [![Dependency Status](https://gemnasium.com/luisfarzati/json-chance.svg)](https://gemnasium.com/luisfarzati/json-chance)
 
 Create random JSON objects using [json-spawn](https://github.com/luisfarzati/json-spawn) and [Chance.js](http://chancejs.com/).
