@@ -1,6 +1,6 @@
 {
   "name": "json-chance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create random JSON objects using json-spawn and Chance.js",
   "keywords": ["mock", "generator", "random", "chance", "fields", "select", "query", "json"],
   "author": "lfarzati@gmail.com",
