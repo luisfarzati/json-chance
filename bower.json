@@ -1,0 +1,17 @@
+{
+  "name": "PACKAGE-NAME",
+  "version": "0.1.0",
+  "description": "PACKAGE_DESCRIPTION",
+  "homepage": "https://github.com/luisfarzati/PACKAGE-NAME",
+  "authors": ["Luis Farzati <lfarzati@gmail.com>"],
+  "main": "build/MAIN_FILE.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

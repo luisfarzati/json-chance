@@ -1,0 +1,27 @@
+{
+  "name": "PACKAGE-NAME",
+  "version": "0.1.0",
+  "description": "PACKAGE_DESCRIPTION",
+  "keywords": [],
+  "author": "lfarzati@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/luisfarzati/json-spawn.git"
+  },
+  "main": "lib/index",
+  "bin": "bin/jsonchance",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha -w -G -R min",
+    "coverage": "istanbul cover _mocha"
+  },
+  "dependencies": {
+    "chance": "^0.7.6",
+    "json-spawn": "^0.1.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.17",
+    "mocha": "~1.12.0"
+  }
+}
