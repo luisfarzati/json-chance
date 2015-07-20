@@ -1,5 +1,6 @@
-# json-chance [![NPM version](https://badge.fury.io/js/json-chance.png)](http://badge.fury.io/js/json-chance)
-[![Build Status](https://secure.travis-ci.org/luisfarzati/json-chance.png)](http://travis-ci.org/luisfarzati/json-chance) [![Dependency Status](https://gemnasium.com/luisfarzati/json-chance.svg)](https://gemnasium.com/luisfarzati/json-chance)
+# json-chance 
+
+[![NPM version](https://badge.fury.io/js/json-chance.png)](http://badge.fury.io/js/json-chance) [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Build Status](https://secure.travis-ci.org/luisfarzati/json-chance.png)](http://travis-ci.org/luisfarzati/json-chance) [![Dependency Status](https://gemnasium.com/luisfarzati/json-chance.svg)](https://gemnasium.com/luisfarzati/json-chance) [![Donations](http://img.shields.io/gratipay/luisfarzati.svg)](https://www.gratipay.com/luisfarzati)
 
 Create random JSON objects using [json-spawn](https://github.com/luisfarzati/json-spawn) and [Chance.js](http://chancejs.com/).
 
@@ -52,4 +53,7 @@ $ npm run coverage
 
 ## License
 
-[MIT](/LICENSE)
+[MIT](LICENSE)
+
+[npm-downloads-image]: https://img.shields.io/npm/dm/json-chance.svg
+[npm-downloads-url]: https://npmjs.org/package/json-chance
